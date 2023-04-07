@@ -36,5 +36,9 @@
 ## Блок - схема алгоритма:
 ![Блок-схема алгоритма](bs.jpg)
 
- ## Программа:
+
+ ## Программа, решающая поставленную задачу:
+ 
+ https://github.com/AnastasyHavura/Itogi_bloka./blob/0be0542b91308c8eb69e3be34e52af0f86c67934/Program.cs
+
  
